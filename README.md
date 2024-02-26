@@ -29,5 +29,5 @@ This code serves as a demonstration of building and training a neural network mo
 Additional customization and optimization may be required based on specific use cases and datasets.
 For further details, refer to the comments within the code segments.
 
-# Contributors:
+#### Contributors:
 [Pratyush Mishra]
